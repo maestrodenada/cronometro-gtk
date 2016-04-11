@@ -1,0 +1,1 @@
+semplice cronometro realizzato con interfaccia grafica
